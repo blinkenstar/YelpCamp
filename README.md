@@ -1,1 +1,1 @@
-An improved YelpCamp prooject
+An improved YelpCamp project
